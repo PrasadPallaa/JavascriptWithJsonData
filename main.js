@@ -28,3 +28,5 @@ xhr.onload = function () {
         document.getElementById('tbody').innerHTML = tbody;
     }
 }
+
+console.log();
